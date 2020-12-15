@@ -1,0 +1,25 @@
+import 'dart:io';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter/gestures.dart';
+import 'package:flutter/material.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:fluttertoast/fluttertoast.dart';
+import 'package:tess/bloc/bloc.dart';
+import 'package:tess/services/services.dart';
+import 'package:flutter/rendering.dart';
+import 'package:image_picker/image_picker.dart';
+import 'package:flutter_spinkit/flutter_spinkit.dart';
+import 'package:tess/models/models.dart';
+import 'package:tess/services/product_services.dart';
+import 'package:tess/ui/widgets/product_cards.dart';
+
+part 'main_page.dart';
+part 'home_page.dart';
+part 'sign_in.dart';
+part 'Sign_up.dart';
+part 'data_pages.dart';
+part 'add_pages.dart';
+part 'account_pages.dart';
+part 'main_menu.dart';
+part 'edit_products.dart';

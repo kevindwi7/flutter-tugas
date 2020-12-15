@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635528364126",
+    "firebase_url": "https://latihanflutter-51540.firebaseio.com",
+    "project_id": "latihanflutter-51540",
+    "storage_bucket": "latihanflutter-51540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635528364126:android:9040d232187945bc5a74cf",
+        "android_client_info": {
+          "package_name": "com.example.tess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635528364126-7t5tc92rr19a5l73469sfhrl46867s9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7P1CHMqzlP0_yiTy94YzncjXcZwpwZuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635528364126-7t5tc92rr19a5l73469sfhrl46867s9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
